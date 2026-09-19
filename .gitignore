@@ -1,0 +1,14 @@
+Builds/
+JuceLibraryCode/
+.vs/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
